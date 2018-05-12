@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5321
     wikipedia: http://en.wikipedia.org/wiki/Edward_Streeter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15758#-Same-old-Bill-eh-Mable--
 gutenberg_bookshelf:
 - World War I
 - Humor
